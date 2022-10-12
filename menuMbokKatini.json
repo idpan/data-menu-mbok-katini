@@ -56,14 +56,7 @@
   "category": "bakar",
   "is_featured": false
  },
- {
-  "name": "bakso &amp; sosis Bakar",
-  "description": "di isi deskripsi produk",
-  "price": 99000,
-  "image": "bakso-sosis-bakar.jpg",
-  "category": "bakar",
-  "is_featured": false
- },
+
  {
   "name": "nasi goreng spesial",
   "description": "di isi deskripsi produk",
@@ -121,10 +114,10 @@
   "is_featured": false
  },
  {
-  "name": "mie tektek bakso sosis",
+  "name": "mie tektek rebus bakso sosis",
   "description": "di isi deskripsi produk",
   "price": 99000,
-  "image": "mie-tektek-bakso-sosis.jpg",
+  "image": "mie-tektek-rebus-bakso-sosis.jpg",
   "category": "mie",
   "is_featured": false
  },
