@@ -214,7 +214,7 @@
   "nasi_box": [
     {
       "name": "bento",
-      "description": "Nasi putih / kuning, Mie goreng, Telur dadar, Ayam bakar / goreng, Sambal merah / hijau, Kerupuk",
+      "description": "Nasi putih / kuning~Mie goreng~Telur dadar~Ayam bakar / goreng~Sambal merah / hijau~Kerupuk",
       "price": 25000,
       "image": "bento",
       "category": "nasi-box"
