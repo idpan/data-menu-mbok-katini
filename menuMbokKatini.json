@@ -223,14 +223,14 @@
   "tumpeng": [
     {
       "name": "tumpeng",
-      "description": "Ayam 10 potong \nTelor 8\nMie goreng\nOrek tempe\nSambal merah\nUrap",
+      "description": "Ayam 10 potong ~Telor 8~Mie goreng~Orek tempe~Sambal merah~Urap",
       "price": 250000,
       "image": "tumpeng",
       "category": "tumpeng"
     },
     {
       "name": "tumpeng mini",
-      "description": "Tumpeng mini rose / cone\n1-10 box 30.000\n11-20 box 28.500\n21-30 box 27.000\n50 box 25.000\n\nNasi kuning\nAyam bakar/goreng\nTelur dadar\nTempe orek\nKentang balado\nTimun & salada\nSambal merah / ijo",
+      "description": "Tumpeng mini rose / cone~1-10 box 30.000~11-20 box 28.500~21-30 box 27.000~50 box 25.000~~Nasi kuning~Ayam bakar/goreng~Telur dadar~Tempe orek~Kentang balado~Timun & salada~Sambal merah / ijo",
       "price": 25000,
       "image": "tumpeng-mini",
       "category": "tumpeng"
