@@ -1,0 +1,214 @@
+{
+  "menu-satuan": [
+    {
+      "name": "ayam goreng sambel ijo",
+      "price": 12000,
+      "image": "ayam-goreng-sambel-ijo",
+      "category": "goreng",
+      "is_featured": false
+    },
+    {
+      "name": "ayam goreng sambel cobek",
+      "price": 12000,
+      "image": "ayam-goreng-sambel-cobek",
+      "category": "goreng",
+      "is_featured": true
+    },
+    {
+      "name": "ayam geprek sambel ijo",
+      "price": 12000,
+      "image": "ayam-geprek-sambel-ijo",
+      "category": "goreng",
+      "is_featured": false
+    },
+    {
+      "name": "ayam geprek sambel cobek",
+      "price": 12000,
+      "image": "ayam-geprek-sambel-cobek",
+      "category": "goreng",
+      "is_featured": false
+    },
+    {
+      "name": "lele goreng",
+      "price": 10000,
+      "image": "lele-goreng",
+      "category": "goreng",
+      "is_featured": false
+    },
+    {
+      "name": "ayam bakar",
+      "price": 13000,
+      "image": "ayam-bakar",
+      "category": "bakar",
+      "is_featured": true
+    },
+    {
+      "name": "lele bakar",
+      "price": 13000,
+      "image": "lele-bakar",
+      "category": "bakar",
+      "is_featured": false
+    },
+    {
+      "name": "bakso & sosis Bakar",
+      "price": 2000,
+      "image": "bakso-sosis-bakar",
+      "category": "bakar",
+      "is_featured": false
+    },
+    {
+      "name": "nasi goreng spesial",
+      "price": 15000,
+      "image": "nasi-goreng-spesial",
+      "category": "nasi-goreng",
+      "is_featured": true
+    },
+    {
+      "name": "nasi goreng sambel ijo",
+      "price": 15000,
+      "image": "nasi-goreng-sambel-ijo",
+      "category": "nasi-goreng",
+      "is_featured": false
+    },
+    {
+      "name": "nasi goreng ayam bakso",
+      "price": 12000,
+      "image": "nasi-goreng-ayam-bakso",
+      "category": "nasi-goreng",
+      "is_featured": false
+    },
+    {
+      "name": "nasi goreng sosis bakso",
+      "price": 13000,
+      "image": "nasi-goreng-sosis-bakso",
+      "category": "nasi-goreng",
+      "is_featured": false
+    },
+    {
+      "name": "mie tektek goreng ayam bakso",
+      "price": 13000,
+      "image": "mie-tektek-goreng-ayam-bakso",
+      "category": "mie",
+      "is_featured": false
+    },
+    {
+      "name": "mie tektek goreng bakso sosis",
+      "price": 14000,
+      "image": "mie-tektek-goreng-bakso-sosis",
+      "category": "mie",
+      "is_featured": false
+    },
+    {
+      "name": "mie tektek rebus ayam bakso",
+      "price": 13000,
+      "image": "mie-tektek-rebus-ayam-bakso",
+      "category": "mie",
+      "is_featured": false
+    },
+    {
+      "name": "mie tektek bakso sosis",
+      "price": 14000,
+      "image": "mie-tektek-bakso-sosis",
+      "category": "mie",
+      "is_featured": false
+    },
+    {
+      "name": "bihun goreng",
+      "price": 10000,
+      "image": "bihun-goreng",
+      "category": "mie",
+      "is_featured": false
+    },
+    {
+      "name": "mie ayam",
+      "price": 10000,
+      "image": "mie-ayam-biasa",
+      "category": "mie-ayam",
+      "is_featured": true
+    },
+    {
+      "name": "mie yamin",
+      "price": 10000,
+      "image": "mie-yamin",
+      "category": "mie-ayam",
+      "is_featured": false
+    },
+    {
+      "name": "mie ayam pangsit",
+      "price": 12000,
+      "image": "mie-ayam-pangsit",
+      "category": "mie-ayam",
+      "is_featured": false
+    },
+    {
+      "name": "mie ayam bakso",
+      "price": 13000,
+      "image": "mie-ayam-bakso",
+      "category": "mie-ayam",
+      "is_featured": false
+    },
+    {
+      "name": "mie ayam pangsit, bakso",
+      "price": 15000,
+      "image": "mie-ayam-pangsit-bakso",
+      "category": "mie-ayam",
+      "is_featured": false
+    },
+    {
+      "name": "jus alpukat",
+      "price": 10000,
+      "image": "jus-alpukat",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "jus mangga",
+      "price": 10000,
+      "image": "jus-mangga",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "jus  jambu",
+      "price": 10000,
+      "image": "jus-jambu",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "jus strawberry",
+      "price": 12000,
+      "image": "jus-strawberry",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "jus  apel",
+      "price": 12000,
+      "image": "jus-apel",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "jus  jeruk",
+      "price": 10000,
+      "image": "jus-jeruk",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "jus tomat",
+      "price": 10000,
+      "image": "jus-tomat",
+      "category": "minuman",
+      "is_featured": false
+    },
+    {
+      "name": "es campur",
+      "price": 10000,
+      "image": "es-campur",
+      "category": "minuman",
+      "is_featured": true
+    }
+  ]
+}
